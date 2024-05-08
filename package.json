@@ -1,0 +1,18 @@
+{
+  "name": "21052122",
+  "version": "1.0.0",
+  "description": "AFT assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
